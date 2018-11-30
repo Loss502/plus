@@ -5,6 +5,7 @@ const moment = require('moment');
 const jimp = require('jimp');
 const Canvas = require('canvas');
  const prefix = "p!";
+
 client.on('ready', () => {
     console.log('Ready!');
 });
